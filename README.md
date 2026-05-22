@@ -27,10 +27,3 @@ Inspired by:
 pip install -r requirements.txt
 python src/main.py
 
-
----
-
-## LICENSE
-
-```plaintext id="d8rj9v"
-MIT License
