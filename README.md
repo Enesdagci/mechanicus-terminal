@@ -10,7 +10,7 @@ Inspired by:
 
 ## Preview
 
-![Dashboard](assets/screenshots/dashboard.png)
+![Dashboard](assets/dashboard.png)
 
 ## Features
 
